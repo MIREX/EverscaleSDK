@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "EverscaleSDK",
             url: "https://github.com/MIREX/EverscaleSDK/releases/download/1.27.1/EverscaleSDK.xcframework.zip",
-            checksum: "4449d2c0ccec45c3ae7c6b81187cacd4162f4c09caa3b07edaacb5715b677840"
+            checksum: "64ae72607541e5f22bcea99ef167846dd40ceed12c8e84cae50874cf7ea0014f"
         )
     ]
 )
